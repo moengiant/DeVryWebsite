@@ -1,0 +1,42 @@
+<form>
+<P>
+<font class="blacktext">
+<b>Please fill out the following information below to complete your order.</b>
+</font>
+<p>
+<b><font class="greetext">Billing Information:</font></b><P>
+ 
+<TABLE class="blacktext" width="600px" style="background:#fff;border: solid 1px #cccccc;">
+<TR><TD>Name:    </TD><TD><input type="text" size="18" name="b_first"> <input type="text" size="15" name="b_last"></TD></TR>
+<TR><TD>Address: </TD><TD><input type="text" size="37" name="b_addr"> </TD></TR>
+<TR><TD>Address: </TD><TD><input type="text" size="37" name="b_addr2"></TD></TR>
+<TR><TD>City:    </TD><TD><input type="text" size="21" name="b_city"> </TD></TR>
+<TR><TD>State:   </TD><TD><input type="text" size="1"  name="b_state"> </TD></TR>
+<TR><TD>Zip:     </TD><TD><input type="text" size="5"  name="b_zip"></TD></TR>
+<TR><TD>Phone:   </TD><TD><input type="text" size="37" name="b_phone"></TD></TR>
+<TR><TD>Fax:     </TD><TD><input type="text" size="37" name="b_fax"></TD></TR>
+<TR><TD>Email:   </TD><TD><input type="text" size="37" name="b_email"> </TD></TR>
+</TABLE>
+
+<p>
+<b><font class="greetext">Shipping Information (if different than billing):</font></b>
+<P>
+<TABLE width="600px" style="background:#fff;border: solid 1px #cccccc;">
+<TR><TD>First Name:</td><td><input style="background:#cccccc;border: solid 1px #cccccc;" type="text" size="18" name="s_first"> Last Name: <input type="text" style="background:#cfcfcf;" size="15" name="s_last"></TD></TR>
+<TR><TD>Address: </TD><TD><input type="text" size="37" name="s_addr"> </TD></TR>
+<TR><TD>Address: </TD><TD><input type="text" size="37" name="s_addr2"></TD></TR>
+<TR><TD>City:    </TD><TD><input type="text" size="21" name="s_city"> </TD></TR>
+<TR><TD>State:   </TD><TD><input type="text" size="1"  name="s_state"> </TD></TR>
+<TR><TD>Zip:     </TD><TD><input type="text" size="5"  name="s_zip"></TD></TR>
+<TR><TD>Phone:   </TD><TD><input type="text" size="37" name="s_phone"></TD></TR>
+<TR><TD>Fax:     </TD><TD><input type="text" size="37" name="s_fax"></TD></TR>
+<TR><TD>Email:   </TD><TD><input type="text" size="37" name="s_email"> </TD></TR>
+</TABLE>
+<p>
+<FONT class="blacktext">
+<b><font class="greetext">Comments/Special Instructions:</font></b><P>
+<TEXTAREA NAME="comment" ROWS=6 COLS=40>
+</TEXTAREA>
+</font>
+
+</center

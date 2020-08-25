@@ -1,0 +1,4 @@
+<ul>
+<li>-2 graphic end panels</li>
+<li>-4 front graphic panels</li>
+</ul>

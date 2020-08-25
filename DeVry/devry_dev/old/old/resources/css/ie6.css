@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+#search {
+	margin:20px 0 0 22px;
+}
+#navigate_container ul {
+	margin:0 0 0 11px;
+}
+#accordion{
+	margin:35px 0 0 -5px;
+	width:550px;
+}
+#accordion div.header_title{
+	height:10px;
+	overflow:visible;
+}
+.select {
+	width:163px;
+}
+#find_devry .select {
+	width:261px;
+}
+#addition_box .select {
+	width:292px;
+}
+#addition_box div.dropdown {
+	margin:4px 0;
+	padding:0;
+}
+
+#tooltip{background:url(../../assets/images/bg-list-link-pop.gif) bottom no-repeat;}
+#sidebar div.dropdown h4{background-position:3px 0; text-indent:8px;}
+#img-container {
+	height:44px;
+}
+
+#hero_cover{
+z-index:100000; 
+display:none; 
+width:100%; 
+height:100%; 
+position:absolute;
+top:0;
+left:0; 
+text-align:center; 
+background-color:#000;
+}
+
+body{
+height:100%;}
+
+#hero_wrapper{
+width:697px; height:419px;
+background-image:none;
+position:absolute; 
+top: 50%;
+left: 50%;
+margin-left: -359px;
+margin-top: -210px;
+text-align:center; 
+display:none; 
+z-index:100000000;
+background-color:transparent;
+}

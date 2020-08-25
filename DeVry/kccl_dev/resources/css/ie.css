@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.send-btn{
+	margin-left:2px;
+}
+#content_container ul{padding-left:16px;}
+#content_container ol{padding-left:22px;}
+#sidebar div.dropdown h4{margin-left:-3px;}  
+
+#popup_main{ margin:240px 0 0 -373px;}
+.info_second{padding-top:8px;}
+#lightbox-main-table{margin:12px auto 0 auto; }
+#error_msg{margin:108px 0 0 -15px;}
+
+.iefix{ margin-top: -3px; }

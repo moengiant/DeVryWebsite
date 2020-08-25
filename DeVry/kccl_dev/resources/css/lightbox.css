@@ -1,0 +1,97 @@
+/*lightbox css*/
+#lightbox-overlay {
+	background-color:#000000;
+	height:100%;
+	position:absolute;
+	z-index:90;
+	opacity:0.4;
+	filter:Alpha(Opacity=40);
+	display:none;
+}
+#lightbox{
+	position:absolute;
+	display:none;
+	z-index:91;
+}
+#lightbox_container{
+	overflow:hidden;
+	background:#fff url(../../assets/images/lightbox-title.jpg) no-repeat 2px 3px;
+}
+#lightbox_container h1{line-height:46px;width:450px;}
+#close-container{
+	padding-left:215px;
+	padding-top:3px;
+	display:inline;
+}
+#close{
+	right:15px;
+	top:14px;
+	position:absolute;
+	cursor:pointer;
+}
+#lightbox-content{
+	overflow:hidden;
+	padding:5px 20px 29px;
+}
+#lightbox-main{
+	width:557px;
+	height:428px;
+	overflow-y:auto;
+}
+.lightbox-left{width:150px; float:left; padding-top:20px; }
+.lightbox-right{width:387px; float:left; padding-left:20px;height:350px; overflow-y:auto; margin-top:10px;}
+#lightbox-main-table{color:#002525;width:821px; height:450px; overflow-y:auto; margin:20px auto 0 auto; }
+#lightbox_container1{
+	overflow:hidden;
+	background:#fff url(../../assets/images/lightbox-title_1.jpg) no-repeat 2px 3px;
+	width:845px;
+	position:relative;
+}
+.lightbox-right h2{line-height:23px;padding-bottom:10px;}
+#lightbox-main-table p{ width:780px; margin:12px auto 0 0; color:#002525; font-size:1em;}
+#lightbox-main-table p strong{ font-weight:bold;}
+#lightbox-main-table p b{ font-weight:bold; font-size:1.1em;}
+#lightbox-main-table p span{ font-size:1.2em; font-weight:bold;}
+#lightbox-main-table {}
+.additional{
+	border:1px solid #e1e1e1;
+	background:#eef3f6;
+	padding:16px 15px 23px 15px;
+	font-size:1.1em;
+}
+.additional a {
+	color:#2D73A8;
+	font-size:0.9em;
+}
+.additional a label{
+	font-size:1.18em;
+	font-weight:normal;
+	display:inline;
+	padding:0;
+}
+.additional h4{
+	line-height:21px;
+}
+
+#news_list li{ padding-left:12px; background:url(../../assets/images/bg-adr-list-dt.gif) left 2px no-repeat;}
+#news_active{display:block; padding-left:12px; background:url(../../assets/images/bg-adr-list-dt.gif) top left no-repeat;}
+.lightbox-main-table-top{ padding-top:5px; background:url(../../assets/images/tb-top-1.gif) top no-repeat; width:801px;}
+#lightbox-main-table .table-lightbox{ width:801px; border:1px solid #dadada; border-top:none; color:#112d44;}
+#lightbox-main-table p{ margin:8px auto 4px auto; width:800px;}
+#lightbox-main-table .program{padding-left:15px; text-align:left; font-weight:bold; width:230px; color:#112d44;}
+#lightbox-main-table th{height:20px; vertical-align:middle; margin:0; padding:10px 0 8px 0; color:#112d44; padding-left:10px;}
+#lightbox-main-table h5{margin:0; padding:0; color:#112d44;}
+#lightbox-main-table td{border-top:1px solid #e1e1e1; color:#112d44; margin:0; padding:0; text-align:center; font-weight:bold; vertical-align:top;}
+#lightbox-main-table td h6{font-weight:normal; color:#112d44; font-style:italic;}
+.table-lightbox tr{ background:#fff;}
+.table-lightbox tr.odd{ background:#f0f4f7;}
+.lightbox-footer{ width:821px; padding-top:10px;}
+#lightbox-content p.notice{ height:auto; text-align:left; width:400px; float:left; font-size:0.9em; margin:0 auto 4px auto; }
+#lightbox-content p.info{ text-align:right; float:left; width:400px;  font-size:0.9em;}
+#lightbox-content p.info span,#lightbox-content p.info a{ font-weight:normal; text-decoration:underline; cursor:pointer; color:#093678; font-size:1em;}
+h4{ text-decoration:none; padding-left:0; line-height:13px;}
+.lightbox-left a{ color:#093678; font-size:1.1em; text-decoration:underline;}
+.lightbox-left a:hover{ color:#2882c6; font-size:1.1em; text-decoration:underline;}
+.lightbox-left li{ padding-bottom:0.9em;}
+
+

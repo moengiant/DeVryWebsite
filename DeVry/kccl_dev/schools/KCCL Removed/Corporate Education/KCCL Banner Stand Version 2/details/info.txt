@@ -1,0 +1,12 @@
+<span style="font-size:20px;color:red;">
+currently unavailable
+</span>
+<!--
+<ul>
+<li>-Dimensions 33" wide by 85" tall</li> 
+<li>Solution dimensions: 33.5"w x 84"h</li>
+<li>-Inkjet graphic panel w/UV protective laminate.<br>
+Weight: approx - 10lbs</li>
+<li>-Hardware, trim strips and canvas carrying bag</li>
+</ul>
+-->

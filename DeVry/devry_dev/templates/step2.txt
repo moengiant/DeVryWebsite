@@ -1,0 +1,4 @@
+<img src="./assets/images/left_arrow.png" style="width:70px;position:relative;right:50px;z-index:1005;">
+<p style="position:relative;">The menu</p><p style="position:relative;">Select a school from the left side  menu bar. The school selected will expand with availble options. Click to preview the desired option in the preview panel.</p>
+<img src="./assets/images/down_arrow.png" style="width:70px;position:relative;right:70px;top:120px;z-index:1005">
+<p style="position:relative;">The cart</p><p>Click the add to cart button in the preview panel to add items. To change quanity either click the add to cart button or type desired quantity into the quantity field in the cart.</p>  

@@ -1,0 +1,19 @@
+<h4>About this Site</h4>
+<br>
+<font size=2>The latest versions of </font>
+<a title="Download Microsoft Internet Explorer" href="http://www.microsoft.com/windows/ie/" target="_blank"><font size=2>Internet Explorer</font></a>
+<font size=2>, </font>
+<a title="Download FireFox Browser" href="http://www.mozilla.com/en-US/firefox/" target="_blank"><font size=2>Firefox</font></a>
+<font size=2>, and </font>
+<a title="Download Safari Browser" href="http://www.apple.com/support/safari/" target="_blank"><font size=2>Safari</font></a><font size=2> browsers are supported; other browsers may work but may have limited capabilities. </font>
+<br><br>
+To report any errors please contact:<br>
+David Stephenson at 630-227-4573 <a href="mailto:dcs@ionexhibits.com">dcs@ionexhibits.com</a>
+<br><br>
+This site is maintained by ion exhibits, LLC.<br>
+
+
+
+
+
+
